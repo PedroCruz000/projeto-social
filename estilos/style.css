@@ -42,7 +42,7 @@ section#redesSociais img{
     width: 70px;
     margin: 0px;
     border-radius: 5px;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.178);
+    box-shadow: 5px 5px 10px rgba(255, 254, 254, 0.178);
     box-sizing: border-box;
 }
 section#redesSociais img:hover{
